@@ -10,5 +10,12 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@graphql-tools/executor-http": "^1.0.2",
+    "@graphql-tools/mock": "^9.0.0",
+    "@graphql-tools/wrap": "^10.0.1",
+    "graphql": "^16.8.1",
+    "graphql-yoga": "^4.0.5"
   }
 }
